@@ -12,4 +12,4 @@ Features
 8. Log Calculations
 9. Trigo Calculations
 
-Implemented in C++ using concepts of OOP,Exception Handling snd various other C++ concepts.
+Implemented in C++ using concepts of OOP,Exception Handling and various other C++ concepts.
