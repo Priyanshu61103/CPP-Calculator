@@ -1,7 +1,7 @@
-Calculator Project :
+# CPP-Calculator:
 This is a simple calculator application implemented in C++. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project serves as an introduction to C++ programming and provides a user-friendly interface for performing calculations.
 
-Features
+## Features
 1. Addition
 2. Subtraction
 3. Multiplication
